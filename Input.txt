@@ -1,0 +1,5 @@
+Customer4,Paris,8
+Customer5,Syracus,6
+Customer6,New York,7
+Customer7,San Jose,9
+Customer8,Venis,3
